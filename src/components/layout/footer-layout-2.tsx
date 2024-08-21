@@ -35,10 +35,10 @@ const FooterLayout2 = () => {
                     +1-888-1554-456
                   </a>
                   <a
-                    href="mailto:hello@margin.com"
+                    href="mailto:hello@DataCannibal.com"
                     className="hover:text-primary"
                   >
-                    hello@margin.com
+                    hello@DataCannibal.com
                   </a>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FooterLayout2 = () => {
       <div className="border-t py-12">
         <div className="container text-center">
           <span className="text-xs">
-            © {new Date().getFullYear()} Margin React, Made by{" "}
+            © {new Date().getFullYear()} DataCannibal React, Made by{" "}
             <a href="https://deothemes.com" className="hover:text-primary">
               DeoThemes
             </a>

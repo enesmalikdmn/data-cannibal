@@ -8,17 +8,11 @@ const SectionPromo = () => {
       <PromoTriangle />
       <div className="container">
         <div className="lg:ml-auto lg:w-[45%]">
-          <h2 className="max-w-md">
-            Is your website driving sales for your business?
+          <h2 className="max-w-2xl">
+            Ensure Compliance and Save Time
           </h2>
           <p className="mb-10 text-lg">
-            As you may already know, there are an infinite number of things you
-            can test on your site to help you increase sales. From layout to
-            copy to design, there are limitless combinations of changes that may
-            improve your visitor-to-sale conversion rate. But what&apos;s
-            &quot;enough&quot; when you&apos;re just starting out? What elements
-            should you focus on testing before rolling out your traffic
-            campaign?
+          Compliance and accuracy are crucial for any business dealing with large volumes of invoices. DataCannibal not only automates the collection process but also ensures all data is collected in accordance with industry regulations. Save time and reduce the risk of non-compliance with our tailored web scraping solutions.
           </p>
           <Button>
             Get Started

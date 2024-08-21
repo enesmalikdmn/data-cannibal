@@ -56,8 +56,8 @@ export default function ContactForm() {
           </li>
           <li>
             <span>Email: </span>
-            <a href="mailto:hi@margin.com" className="hover:text-primary">
-              hi@margin.com
+            <a href="mailto:hi@DataCannibal.com" className="hover:text-primary">
+              hi@DataCannibal.com
             </a>
           </li>
         </ul>

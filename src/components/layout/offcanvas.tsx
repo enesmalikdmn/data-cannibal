@@ -79,10 +79,10 @@ export function Offcanvas() {
               <li className="flex space-x-4">
                 <Email />
                 <a
-                  href="mailto:hello@margin.com"
+                  href="mailto:hello@DataCannibal.com"
                   className="hover:text-primary"
                 >
-                  hello@margin.com
+                  hello@DataCannibal.com
                 </a>
               </li>
               <li className="flex space-x-4">

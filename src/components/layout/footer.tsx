@@ -104,8 +104,8 @@ const Footer = () => {
                 </li>
                 <li>
                   <span>Email: </span>
-                  <a href="mailto:hi@margin.com" className="hover:text-primary">
-                    hi@margin.com
+                  <a href="mailto:hi@DataCannibal.com" className="hover:text-primary">
+                    hi@DataCannibal.com
                   </a>
                 </li>
               </ul>
@@ -116,7 +116,7 @@ const Footer = () => {
       <div className="border-t py-12">
         <div className="container text-center">
           <span className="text-xs">
-            © {new Date().getFullYear()} Margin React, Made by{" "}
+            © {new Date().getFullYear()} DataCannibal React, Made by{" "}
             <a href="https://deothemes.com" className="hover:text-primary">
               DeoThemes
             </a>

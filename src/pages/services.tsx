@@ -12,7 +12,7 @@ const Services = useFramerTransition(
       <title>Services</title>
     </Helmet>
     <main className="relative">
-      <SectionPageTitle subtitle="We offer a variety of services here to get you started and successfully suite every need using Margin. Choose the services that’s right for you.">
+      <SectionPageTitle subtitle="We offer a variety of services here to get you started and successfully suite every need using DataCannibal. Choose the services that’s right for you.">
         Services
       </SectionPageTitle>
       <SectionIconBoxes noTitle />

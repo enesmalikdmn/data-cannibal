@@ -11,7 +11,7 @@ const SectionProjectsSlider = () => {
     <section className="py-16 lg:py-24">
       <div className="container">
         <SectionTitle
-          subtitle="Here are the best features that makes margin the most powerful, fast and
+          subtitle="Here are the best features that makes DataCannibal the most powerful, fast and
         user-friendly platform."
           sectionClasses="mx-auto max-w-xl text-center mb-12"
           titleClasses="mb-3 text-center"

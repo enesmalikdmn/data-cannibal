@@ -15,13 +15,12 @@ const SectionLatestNews = () => {
           }}
         >
           <SectionTitle
-            subtitle="Here are the best features that makes margin the most powerful, fast and
-        user-friendly platform."
+            subtitle="Stay informed with the latest features and innovations from DataCannibal. Discover how our cutting-edge tools and services are transforming the way businesses handle invoices and data, ensuring a seamless and efficient process every step of the way."
             sectionClasses="mx-auto max-w-xl text-center mb-12"
             titleClasses="mb-3 text-center"
             subtitleClasses="text-md font-medium"
           >
-            Latest News
+            Latest Updates on Automated Invoice Management
           </SectionTitle>
           <PostList limit={3} showPagination={false} />
         </motion.div>

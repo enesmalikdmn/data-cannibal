@@ -39,7 +39,7 @@ const NewsletterForm = () => {
   return (
     <div className="rounded-md bg-muted px-8 py-10 shadow-lg dark:bg-slate-800 dark:shadow-slate-850/20 md:px-16 md:pb-5">
       <h2 className="mb-8 text-lg">
-        Get the free checklist, 7 ways to improve your business
+      Get the Free Checklist: Top 7 Ways to Optimize Your Invoice Management
       </h2>
       <Form {...form}>
         <form
@@ -90,10 +90,10 @@ const NewsletterForm = () => {
             {isPending ? (
               <>
                 <Spinner className="mr-2 h-5 w-5 animate-spin" />
-                <span>Free Download</span>
+                <span>Download Now</span>
               </>
             ) : (
-              <span>Free Download</span>
+              <span>Download Now</span>
             )}
           </Button>
         </form>

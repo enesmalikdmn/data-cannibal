@@ -64,8 +64,8 @@ const SectionFAQ = () => {
               </Accordion>
               <span className="mt-14 inline-block text-lg">
                 Any Question?{" "}
-                <a href="mailto:support@margin.com" className="text-primary">
-                  support@margin.com
+                <a href="mailto:support@DataCannibal.com" className="text-primary">
+                  support@DataCannibal.com
                 </a>
               </span>
             </motion.div>

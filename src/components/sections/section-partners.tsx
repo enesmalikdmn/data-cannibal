@@ -15,7 +15,7 @@ const SectionPartners = () => {
           titleClasses="mb-3 text-center text-white"
           subtitleClasses="text-md font-medium text-white"
         >
-          Join thousands of independent entrepreneurs who tried Margin
+          Join thousands of independent entrepreneurs who tried DataCannibal
         </SectionTitle>
         <div className="flex flex-wrap justify-center">
           <img

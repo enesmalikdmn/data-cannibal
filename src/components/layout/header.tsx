@@ -29,12 +29,12 @@ const Header = () => {
     <>
       <header className="fixed top-0 z-20 w-full">
         <div className={cn("flex items-center px-4 py-5 transition-all lg:py-12 xl:px-20", stickyClass)}>
-          <Link to="/" className="mr-12 shrink-0">
+          <Link to="/" className="flex justify-center items-center mr-12 shrink-0">
             <SiteLogo
               width={123}
               height={39}
-              lightClasses="w-4/5 dark:hidden lg:w-auto"
-              darkClasses="hidden w-4/5 dark:block lg:w-auto"
+              lightClasses="w-4/5 text-foreground dark:hidden lg:w-auto"
+              darkClasses="hidden text-white w-4/5 dark:block lg:w-auto"
             />
           </Link>
 

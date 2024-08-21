@@ -14,7 +14,7 @@ const About = useFramerTransition(
 		<main className="relative">
 			<SectionPageTitle
 				subtitle="Focus on engaging, reusable content that decrease the cost per leads
-					while helps you to increase profits margin. Margin strives to
+					while helps you to increase profits DataCannibal. DataCannibal strives to
 					deliver the tools and support that helps companies grow with
 					unparalleled success."
 			>

@@ -7,37 +7,37 @@ export const iconBoxes = [
     icon: "icons/deadline-5926_5778aee2-b372-4b21-94a1-c9fc06ac464c.svg",
     title: "Fast Results",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
   {
     icon: "icons/medal-3141_6860a6ec-597a-49e1-a5d2-dd4b070acef3.svg",
     title: "Award Winning Agency",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
   {
     icon: "icons/medical-research-6506_05214fe4-cb2e-4171-ac03-72168bf2981b.svg",
     title: "Competition Analysis",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
   {
     icon: "icons/customer-support-4912_a5517329-a472-47b5-8155-d507da181405.svg",
     title: "Friendly Customer Support",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
   {
     icon: "icons/pay-2643_cf4ecaa0-bcfb-4c2b-91e1-7353cb0dccdd.svg",
     title: "100% Money Back Guarantee",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
   {
     icon: "icons/handshake-3124_670c4553-214a-4d06-830f-4d0855736c60.svg",
     title: "Customer Loyalty",
     description:
-      "We also provide tangible results and measurable long-term value business.",
+      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
   },
 ];
 
@@ -61,7 +61,7 @@ const SectionIconBoxesLayout3 = ({ noTitle }: { noTitle?: boolean }) => {
       <div className="container">
         {!noTitle && (
           <SectionTitle
-            subtitle="We offer a variety of services here to get you started and successfully suite every need using Margin."
+            subtitle="We offer a variety of services here to get you started and successfully suite every need using DataCannibal."
             sectionClasses="mx-auto max-w-xl text-center mb-12"
             titleClasses="mb-3 text-center"
             subtitleClasses="text-md font-medium"

@@ -2,37 +2,37 @@ import { motion } from "framer-motion";
 
 const certificates = [
   {
-    image: "certificates/margin_certificate_1.png",
+    image: "certificates/DataCannibal_certificate_1.png",
     href: "#",
     width: 138,
     height: 52,
   },
   {
-    image: "certificates/margin_certificate_2.png",
+    image: "certificates/DataCannibal_certificate_2.png",
     href: "#",
     width: 94,
     height: 92,
   },
   {
-    image: "certificates/margin_certificate_3.png",
+    image: "certificates/DataCannibal_certificate_3.png",
     href: "#",
     width: 138,
     height: 51,
   },
   {
-    image: "certificates/margin_certificate_4.png",
+    image: "certificates/DataCannibal_certificate_4.png",
     href: "#",
     width: 91,
     height: 74,
   },
   {
-    image: "certificates/margin_certificate_5.png",
+    image: "certificates/DataCannibal_certificate_5.png",
     href: "#",
     width: 140,
     height: 40,
   },
   {
-    image: "certificates/margin_certificate_6.png",
+    image: "certificates/DataCannibal_certificate_6.png",
     href: "#",
     width: 92,
     height: 92,
@@ -41,37 +41,37 @@ const certificates = [
 
 const partners = [
   {
-    image: "certificates/margin_partner_1.png",
+    image: "certificates/DataCannibal_partner_1.png",
     href: "#",
     width: 140,
     height: 76,
   },
   {
-    image: "certificates/margin_partner_2.png",
+    image: "certificates/DataCannibal_partner_2.png",
     href: "#",
     width: 141,
     height: 92,
   },
   {
-    image: "certificates/margin_partner_3.png",
+    image: "certificates/DataCannibal_partner_3.png",
     href: "#",
     width: 132,
     height: 79,
   },
   {
-    image: "certificates/margin_partner_4.png",
+    image: "certificates/DataCannibal_partner_4.png",
     href: "#",
     width: 136,
     height: 92,
   },
   {
-    image: "certificates/margin_partner_5.png",
+    image: "certificates/DataCannibal_partner_5.png",
     href: "#",
     width: 133,
     height: 74,
   },
   {
-    image: "certificates/margin_partner_6.png",
+    image: "certificates/DataCannibal_partner_6.png",
     href: "#",
     width: 136,
     height: 82,

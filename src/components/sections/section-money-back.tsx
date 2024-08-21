@@ -15,7 +15,7 @@ const SectionMoneyBack = () => {
               <span className="text-primary">100%</span> Moneyback Guarantee
             </h2>
             <p className="text-md font-medium">
-              Buy with confidence: if you are not 100% satisfied with Margin and
+              Buy with confidence: if you are not 100% satisfied with DataCannibal and
               our complete service, we offer 30-day money back guarantee without
               any questions!
             </p>

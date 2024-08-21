@@ -6,14 +6,14 @@ export const testimonials = [
     name: "Monika Ragpa",
     company: "Practice Manager - DMAF Urology",
     comment:
-      "“Margin is a much needed blessing and exceeded our expectations in every way. They are honest, straightforward, they take care of ALL your  quickly, they are reliable, you can count on them and most of all, they do everything they say they will do, no BS.”",
+      "“DataCannibal is a much needed blessing and exceeded our expectations in every way. They are honest, straightforward, they take care of ALL your  quickly, they are reliable, you can count on them and most of all, they do everything they say they will do, no BS.”",
     image: "testimonials/testimonial_1.jpg",
   },
   {
     name: "Simon Kent",
     company: "Broker - About Roatan Real Estate",
     comment:
-      "“Margin is a much needed blessing and exceeded our expectations in every way. They are honest, straightforward, they take care of ALL your needs quickly, they are reliable, you can count on them and most of all, they do everything they say they will do, no BS.”",
+      "“DataCannibal is a much needed blessing and exceeded our expectations in every way. They are honest, straightforward, they take care of ALL your needs quickly, they are reliable, you can count on them and most of all, they do everything they say they will do, no BS.”",
     image: "testimonials/testimonial_2.jpg",
   },
   {

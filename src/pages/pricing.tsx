@@ -12,7 +12,7 @@ const Pricing = useFramerTransition(
 			<title>Pricing</title>
 		</Helmet>
 		<main className="relative">
-			<SectionPageTitle subtitle="Here are the best features that makes Margin the most powerful, fast and user-friendly platform.">
+			<SectionPageTitle subtitle="Stay informed with the latest features and innovations from DataCannibal. Discover how our cutting-edge tools and services are transforming the way businesses handle invoices and data, ensuring a seamless and efficient process every step of the way.">
 				Price Transparency
 			</SectionPageTitle>
 			<SectionPricingTables />

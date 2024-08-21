@@ -104,7 +104,7 @@ const SectionTeam = () => {
     <section className="py-16 lg:py-28">
       <div className="container">
         <SectionTitle
-          subtitle="Margin strives to deliver the tools and support that helps companies grow with unparalleled success."
+          subtitle="DataCannibal strives to deliver the tools and support that helps companies grow with unparalleled success."
           sectionClasses="mx-auto max-w-xl text-center mb-12"
           titleClasses="mb-3 text-center"
           subtitleClasses="text-md font-medium"

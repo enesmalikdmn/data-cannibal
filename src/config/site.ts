@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Margin React",
+  name: "DataCannibal React",
   description:
-    "Margin is the React template for Marketing and SEO agencies.",
+    "DataCannibal is the React template for Marketing and SEO agencies.",
 };
 
 export const mainNav = [

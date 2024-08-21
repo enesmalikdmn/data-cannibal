@@ -11,7 +11,7 @@ export const testimonials = [
     name: "Katie Smith",
     company: "General Partner at Entrepreneur",
     comment:
-      "Margin is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
+      "DataCannibal is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
     image: "testimonials/testimonial_layout_2_1.jpg",
 
     rating: 5,
@@ -20,7 +20,7 @@ export const testimonials = [
     name: "Alex Fox",
     company: "Entrepreneur / Manager",
     comment:
-      "Margin is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
+      "DataCannibal is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
     image: "testimonials/testimonial_layout_2_2.jpg",
     rating: 5,
   },
@@ -28,7 +28,7 @@ export const testimonials = [
     name: "Tim Bennetto",
     company: "Founder of Pally",
     comment:
-      "Margin is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
+      "DataCannibal is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
     image: "testimonials/testimonial_layout_2_1.jpg",
 
     rating: 5,
@@ -37,7 +37,7 @@ export const testimonials = [
     name: "John Rush",
     company: "Founder of Devhunt.org",
     comment:
-      "Margin is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
+      "DataCannibal is one of the most exciting, if you're interested in shaping a new business model for creators, this is the team to join.",
     image: "testimonials/testimonial_layout_2_2.jpg",
     rating: 5,
   },

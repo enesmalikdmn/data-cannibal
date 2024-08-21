@@ -9,12 +9,11 @@ const SectionHero = () => {
         <div className="container max-w-6xl">
           <div className="flex">
             <div className="lg:w-[45%]">
-              <h1 className="text-headings max-w-xs text-3xl lg:text-4xl">
-                Marketing That Generate Results.
+              <h1 className="text-headings max-w-md text-3xl lg:text-4xl">
+              Unlock Powerful Insights with DataCannibal
               </h1>
               <p className="mb-12 text-lg">
-                Focus on engaging, reusable content that decrease the cost per
-                leads while helps you to increase profits margin.
+              Focus on gathering actionable data rather than getting lost in the details. DataCannibal's advanced web scraping tools help you automate invoice collection from multiple marketplaces, giving you more time to focus on what matters.
               </p>
             </div>
           </div>

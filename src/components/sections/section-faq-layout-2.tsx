@@ -4,7 +4,7 @@ const faqCol1 = [
   {
     title: "14-day trial",
     content:
-      "Monthly Tracked People are unique visitors that engage in an Event on your website or with your product, that gets tracked by you in Margin. Learn more about Margin Analyze to see how Events and Properties work together for you to gain insight into everything people do.",
+      "Monthly Tracked People are unique visitors that engage in an Event on your website or with your product, that gets tracked by you in DataCannibal. Learn more about DataCannibal Analyze to see how Events and Properties work together for you to gain insight into everything people do.",
   },
   {
     title: "Recovering an expired account",
@@ -22,7 +22,7 @@ const faqCol2 = [
   {
     title: "How can I cancel my subscription?",
     content:
-      "Monthly Tracked People are unique visitors that engage in an Event on your website or with your product, that gets tracked by you in Margin. Learn more about Margin Analyze to see how Events and Properties work together for you to gain insight into everything people do.",
+      "Monthly Tracked People are unique visitors that engage in an Event on your website or with your product, that gets tracked by you in DataCannibal. Learn more about DataCannibal Analyze to see how Events and Properties work together for you to gain insight into everything people do.",
   },
   {
     title: "What elements of your offers would be the best fit for me?",
@@ -67,8 +67,8 @@ const SectionFAQLayout2 = () => {
         </div>
         <div className="mt-4 text-center text-lg">
           Any Question?{" "}
-          <a href="mailto:support@margin.com" className="text-primary">
-            support@margin.com
+          <a href="mailto:support@DataCannibal.com" className="text-primary">
+            support@DataCannibal.com
           </a>
         </div>
       </div>
