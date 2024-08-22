@@ -5,39 +5,39 @@ import SectionTitle from "./section-title";
 export const iconBoxes = [
   {
     icon: "icons/deadline-5926_5778aee2-b372-4b21-94a1-c9fc06ac464c.svg",
-    title: "Fast Results",
+    title: "Instant Data Retrieval",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "Streamline your financial operations with DataCannibal’s cutting-edge web scraping technology. Our system rapidly aggregates invoices from various platforms, ensuring that your financial records are accurate and current, eliminating the need for manual input.",
   },
   {
     icon: "icons/medal-3141_6860a6ec-597a-49e1-a5d2-dd4b070acef3.svg",
-    title: "Award Winning Agency",
+    title: "Industry-Leading Expertise",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "DataCannibal is recognized for its excellence in web scraping and data management. Trusted by top-tier companies, our solutions are designed to optimize your invoice collection processes, offering reliability and precision that drive your business forward.",
   },
   {
     icon: "icons/medical-research-6506_05214fe4-cb2e-4171-ac03-72168bf2981b.svg",
-    title: "Competition Analysis",
+    title: "Comprehensive Market Research",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "Stay ahead of the competition with DataCannibal’s detailed market insights. Our automated scraping tools provide you with real-time data analysis, helping you understand market trends and make informed decisions.",
   },
   {
     icon: "icons/customer-support-4912_a5517329-a472-47b5-8155-d507da181405.svg",
-    title: "Friendly Customer Support",
+    title: "Around-the-Clock Support",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "DataCannibal’s customer support is available 24/7 to assist with all your needs. From setup to troubleshooting, our expert team is here to ensure your experience with our platform is smooth and hassle-free.",
   },
   {
     icon: "icons/pay-2643_cf4ecaa0-bcfb-4c2b-91e1-7353cb0dccdd.svg",
-    title: "100% Money Back Guarantee",
+    title: "Risk-Free Service",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "We stand behind our services with a satisfaction guarantee. If you’re not completely satisfied with DataCannibal, we offer a risk-free refund, prioritizing your satisfaction and success.",
   },
   {
     icon: "icons/handshake-3124_670c4553-214a-4d06-830f-4d0855736c60.svg",
-    title: "Customer Loyalty",
+    title: "Long-Term Partnerships",
     description:
-      "Optimize and streamline your financial data management with our automated web scraping solutions. DataCannibal effortlessly collects invoices from multiple sources, ensuring your financial records are accurate and up-to-date without manual intervention.",
+      "Our commitment to excellence has forged strong relationships with our clients. At DataCannibal, we aim to be more than just a service provider; we strive to be a trusted partner in your business’s growth and success.",
   },
 ];
 

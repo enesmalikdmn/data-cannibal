@@ -12,7 +12,7 @@ const Services = useFramerTransition(
       <title>Services</title>
     </Helmet>
     <main className="relative">
-      <SectionPageTitle subtitle="We offer a variety of services here to get you started and successfully suite every need using DataCannibal. Choose the services that’s right for you.">
+      <SectionPageTitle subtitle="At DataCannibal, we specialize in advanced web scraping and automated invoice collection solutions. Our technology seamlessly gathers data from diverse online sources, ensuring that your business has access to accurate, up-to-date information with minimal effort. Whether it's extracting critical market data or automating invoice processing, DataCannibal delivers reliable and efficient services tailored to your unique needs.">
         Services
       </SectionPageTitle>
       <SectionIconBoxes noTitle />

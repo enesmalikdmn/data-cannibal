@@ -2,8 +2,8 @@ import { Button } from "@/components/ui/button";
 
 export const pricingTables = [
   {
-    title: "Standard",
-    currency: "",
+    title: "Package 1",
+    currency: "$",
     price: "Free",
     term: "",
     description: "An entry tool for those who started. Forever free.",
@@ -11,7 +11,7 @@ export const pricingTables = [
     featured: false,
   },
   {
-    title: "Business",
+    title: "Package 2",
     currency: "$",
     price: "19.99",
     term: "/ month",
@@ -21,7 +21,7 @@ export const pricingTables = [
     featured: true,
   },
   {
-    title: "Premium",
+    title: "Package 3",
     currency: "$",
     price: "29.99",
     term: "/ month",

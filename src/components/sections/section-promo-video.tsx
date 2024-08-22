@@ -21,14 +21,10 @@ const SectionPromoVideo = () => {
 
           <div className="w-full lg:w-[45%]">
             <h2>
-              The right tools for the right solution. Focus on Sales
-              Opportunities
+            The Right Tools for Seamless Invoice Collection
             </h2>
             <p className="mb-10 text-lg">
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout. The
-              point of using Lorem Ipsum is that it has a more-or-less normal
-              distribution of letters.
+            DataCannibal equips your business with advanced web scraping technology designed to automate and streamline invoice collection from multiple sources. Whether you're dealing with numerous marketplaces or online portals, our solutions ensure that you capture every detail efficiently, transforming tedious manual processes into smooth, automatic workflows. Focus on what truly matters—growing your business—while we handle the complexities of data extraction and integration.
             </p>
             <Link to="/contact">
               <Button size="lg">
