@@ -9,23 +9,23 @@ export const siteConfig = {
 export const mainNav = [
   {
     title: "Home",
-    items: [
-      {
-        title: "Home Marketing",
-        href: "/",
-        items: [],
-      },
-      {
-        title: "Home SEO Agency",
-        href: "/seo-agency",
-        items: [],
-      },
-      {
-        title: "Home Consulting",
-        href: "/consulting",
-        items: [],
-      },
-    ],
+    // items: [
+    //   // {
+    //   //   title: "Home Marketing",
+    //   //   href: "/",
+    //   //   items: [],
+    //   // },
+    //   // {
+    //   //   title: "Home SEO Agency",
+    //   //   href: "/seo-agency",
+    //   //   items: [],
+    //   // },
+    //   // {
+    //   //   title: "Home Consulting",
+    //   //   href: "/consulting",
+    //   //   items: [],
+    //   // },
+    // ],
   },
   {
     title: "Pages",
@@ -50,11 +50,11 @@ export const mainNav = [
         href: "/contact",
         items: [],
       },
-      {
-        title: "404",
-        href: "/page-404",
-        items: [],
-      },
+      // {
+      //   title: "404",
+      //   href: "/page-404",
+      //   items: [],
+      // },
     ],
   },
   {

@@ -45,50 +45,23 @@ const ProjectCard = ({ project }: Props) => {
         </h2>
       </figure>
       <div className="rounded-b-lg bg-white p-10 dark:bg-slate-800">
-        {(project?.acf?.project_feature_1_number ||
+        {(
           project?.acf?.project_feature_1_text ||
           project?.acf?.project_feature_2_number ||
-          project?.acf?.project_feature_2_text) && (
-          <div className="mb-5 flex flex-wrap items-center lg:flex-nowrap">
-            <div className="w-full p-3 text-center lg:flex-1 lg:border-r">
-              {project?.acf?.project_feature_1_number && (
-                <span className="text-green block text-2xl font-bold lg:text-[2.25rem]">
-                  {project?.acf?.project_feature_1_number}
-                </span>
-              )}
-              {project?.acf?.project_feature_1_text && (
-                <span className="text-[1.0625rem] font-bold">
-                  {project?.acf?.project_feature_1_text}
-                </span>
-              )}
-            </div>
-            <div className="w-full p-3 text-center lg:flex-1">
-              {project?.acf?.project_feature_2_number && (
-                <span className="text-green block text-2xl font-bold lg:text-[2.25rem]">
-                  {project?.acf?.project_feature_2_number}
-                </span>
-              )}
-              {project?.acf?.project_feature_2_text && (
-                <span className="text-[1.0625rem] font-bold">
-                  {project?.acf?.project_feature_2_text}
-                </span>
-              )}
-            </div>
-          </div>
-        )}
+          project?.acf?.project_feature_2_text) }
 
         {project?.excerpt?.rendered && (
           <div
             dangerouslySetInnerHTML={{ __html: project?.excerpt?.rendered }}
           ></div>
         )}
-        <a
+        {/* <a
           href={`/projects/${project.slug}`}
           className="mt-6 inline-flex items-center text-sm font-bold text-secondary hover:text-primary"
         >
           View Case Study
           <ChevronRightIcon width={20} height={20} className="ml-4" />
-        </a>
+        </a> */}
       </div>
     </article>
   );
