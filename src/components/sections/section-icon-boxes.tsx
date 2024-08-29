@@ -45,7 +45,7 @@ const SectionIconBoxes = ({ noTitle }: { noTitle?: boolean }) => {
             <div className="text-center lg:w-3/5">
               <h2 className="mb-12">
                 Do you want to{" "}
-                <span className="text-primary">automate your invoice</span> to
+                <span className="text-[#7ABF21]">automate your invoice</span> to
                 collection process? We know the solution.
               </h2>
             </div>

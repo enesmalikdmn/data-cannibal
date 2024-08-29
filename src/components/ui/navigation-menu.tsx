@@ -41,7 +41,7 @@ NavigationMenuList.displayName = NavigationMenuPrimitive.List.displayName;
 const NavigationMenuItem = NavigationMenuPrimitive.Item;
 
 const navigationMenuTriggerStyle = cva(
-  "group inline-flex h-10 w-max items-center justify-center px-4 py-2 text-sm font-bold text-foreground dark:text-white dark:focus:text-primary dark:hover:text-primary transition-colors hover:text-primary focus:text-primary focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:text-accent",
+  "group inline-flex h-10 w-max items-center justify-center px-4 py-2 text-sm font-bold text-[#2148BF] dark:text-white dark:focus:text-[#7ABF21] dark:hover:text-[#7ABF21] transition-colors hover:text-[#7ABF21] focus:text-[#7ABF21] focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:text-accent",
 );
 
 const NavigationMenuTrigger = React.forwardRef<
@@ -72,7 +72,7 @@ const NavigationMenuContent = React.forwardRef<
     <NavigationMenuPrimitive.Content
       ref={ref}
       className={cn(
-        "origin-top-center text-foreground-muted relative top-full mt-1.5 h-[var(--radix-navigation-menu-viewport-height)] w-full overflow-hidden rounded bg-background shadow-lg shadow-slate-500/20 data-[state=closed]:animate-fade-out data-[state=open]:animate-fade-in data-[motion^=from-]:animate-in data-[motion^=to-]:animate-out data-[motion^=from-]:fade-in data-[motion^=to-]:fade-out data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-90 data-[motion=from-end]:slide-in-from-right-52 data-[motion=from-start]:slide-in-from-left-52 data-[motion=to-end]:slide-out-to-right-52 data-[motion=to-start]:slide-out-to-left-52 dark:bg-slate-900 dark:shadow-slate-900/20 md:absolute md:w-auto",
+        "origin-top-center text-[#2148BF]-muted relative top-full mt-1.5 h-[var(--radix-navigation-menu-viewport-height)] w-full overflow-hidden rounded bg-background shadow-lg shadow-slate-500/20 data-[state=closed]:animate-fade-out data-[state=open]:animate-fade-in data-[motion^=from-]:animate-in data-[motion^=to-]:animate-out data-[motion^=from-]:fade-in data-[motion^=to-]:fade-out data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-90 data-[motion=from-end]:slide-in-from-right-52 data-[motion=from-start]:slide-in-from-left-52 data-[motion=to-end]:slide-out-to-right-52 data-[motion=to-start]:slide-out-to-left-52 dark:bg-slate-900 dark:shadow-slate-900/20 md:absolute md:w-auto",
         className,
       )}
       {...props}

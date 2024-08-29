@@ -28,7 +28,7 @@ const PostCard = ({ post }: Props) => {
             />
           )}
           {post.modified && (
-            <div className="pointer-events-none absolute left-4 top-4 rounded bg-white px-4 py-3 text-center font-medium leading-none text-foreground">
+            <div className="pointer-events-none absolute left-4 top-4 rounded bg-white px-4 py-3 text-center font-medium leading-none text-[#2148BF]">
               <span className="block text-md">{getDateDay(post.modified)}</span>
               <span className="text-[0.625rem] uppercase tracking-wider">
                 {getDateMonth(post.modified)}
@@ -40,7 +40,7 @@ const PostCard = ({ post }: Props) => {
       <div className="rounded-b-lg p-10">
         <h2 className="mb-4 text-xl font-bold">
           <Link
-            className="hover:text-primary"
+            className="hover:text-[#7ABF21]"
             to="/single-post"
             dangerouslySetInnerHTML={{ __html: post?.title?.rendered }}
           />
@@ -49,7 +49,7 @@ const PostCard = ({ post }: Props) => {
           <>
             <div className="mb-5 flex">
               <BookmarkIcon width={15} className="mr-1 stroke-primary" />
-              <div className="space-x-2 text-xs font-medium text-foreground dark:text-white">
+              <div className="space-x-2 text-xs font-medium text-[#2148BF] dark:text-white">
                 {categories.map((category) => <span key={category.id}>{category.name}</span> )}
               </div>
             </div>

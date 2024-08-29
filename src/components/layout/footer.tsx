@@ -75,7 +75,7 @@ const Footer = () => {
                             to={link.href}
                             target={link?.external ? "_blank" : undefined}
                             rel={link?.external ? "noreferrer" : undefined}
-                            className="block hover:text-primary"
+                            className="block hover:text-[#7ABF21]"
                           >
                             {link.title}
                           </Link>
@@ -97,14 +97,14 @@ const Footer = () => {
                   <span>Phone: </span>
                   <a
                     href="tel:+1-800-1554-456-123"
-                    className="hover:text-primary"
+                    className="hover:text-[#7ABF21]"
                   >
                     + 1 (800) 155 4561
                   </a>
                 </li>
                 <li>
                   <span>Email: </span>
-                  <a href="mailto:hi@DataCannibal.com" className="hover:text-primary">
+                  <a href="mailto:hi@DataCannibal.com" className="hover:text-[#7ABF21]">
                     hi@DataCannibal.com
                   </a>
                 </li>
@@ -117,7 +117,7 @@ const Footer = () => {
         <div className="container text-center">
           <span className="text-xs">
             © {new Date().getFullYear()} DataCannibal React, Made by{" "}
-            <a href="https://deothemes.com" className="hover:text-primary">
+            <a href="https://deothemes.com" className="hover:text-[#7ABF21]">
               DeoThemes
             </a>
           </span>

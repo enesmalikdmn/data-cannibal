@@ -23,7 +23,7 @@ const Testimonial = ({
           {name || company ? (
             <div className="testimonial__info">
               {name && (
-                <span className="mb-1 block text-md font-bold text-foreground dark:text-white">
+                <span className="mb-1 block text-md font-bold text-[#2148BF] dark:text-white">
                   {name}
                 </span>
               )}

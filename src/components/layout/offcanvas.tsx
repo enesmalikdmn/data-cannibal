@@ -71,7 +71,7 @@ export function Offcanvas() {
                 <Phone />
                 <a
                   href="tel:+1-800-1554-456-123"
-                  className="hover:text-primary"
+                  className="hover:text-[#7ABF21]"
                 >
                   + 1 (800) 155 4561
                 </a>
@@ -80,7 +80,7 @@ export function Offcanvas() {
                 <Email />
                 <a
                   href="mailto:hello@DataCannibal.com"
-                  className="hover:text-primary"
+                  className="hover:text-[#7ABF21]"
                 >
                   hello@DataCannibal.com
                 </a>

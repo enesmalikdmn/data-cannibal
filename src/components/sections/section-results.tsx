@@ -28,7 +28,7 @@ const SectionResults = () => {
                   <span className="text-green mb-3 block text-3xl font-bold md:text-5xl">
                     30%
                   </span>
-                  <span className="text-md font-medium text-foreground dark:text-white">
+                  <span className="text-md font-medium text-[#2148BF] dark:text-white">
                     Lower cost per acquisition
                   </span>
                 </div>
@@ -36,7 +36,7 @@ const SectionResults = () => {
                   <span className="text-green mb-3 block text-3xl font-bold md:text-5xl">
                     150%
                   </span>
-                  <span className="text-md font-medium text-foreground dark:text-white">
+                  <span className="text-md font-medium text-[#2148BF] dark:text-white">
                     More organic traffic
                   </span>
                 </div>
@@ -46,7 +46,7 @@ const SectionResults = () => {
                   <span className="text-green mb-3 block text-3xl font-bold md:text-5xl">
                     86%
                   </span>
-                  <span className="text-md font-medium text-foreground dark:text-white">
+                  <span className="text-md font-medium text-[#2148BF] dark:text-white">
                     More inbound leads
                   </span>
                 </div>
@@ -54,7 +54,7 @@ const SectionResults = () => {
                   <span className="text-green mb-3 block text-3xl font-bold md:text-5xl">
                     24%
                   </span>
-                  <span className="text-md font-medium text-foreground dark:text-white">
+                  <span className="text-md font-medium text-[#2148BF] dark:text-white">
                     Decrease in bounce rate
                   </span>
                 </div>

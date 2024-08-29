@@ -94,7 +94,7 @@ export function MobileNav({ mainNavItems, triggerIcon = "default" }: MobileNavPr
                       <div>
                         <Link
                           to={item.href}
-                          className="block border-b py-4 text-sm transition-colors hover:text-primary focus:text-primary"
+                          className="block border-b py-4 text-sm transition-colors hover:text-[#7ABF21] focus:text-[#7ABF21]"
                         >
                           {item.title}
                         </Link>
@@ -122,8 +122,8 @@ function MobileLink({ children, href, disabled, setIsOpen }: MobileLinkProps) {
     <NavLink
       to={href}
       className={({ isActive }) => cn(
-        "transition-colors hover:text-primary",
-        isActive && "text-foreground",
+        "transition-colors hover:text-[#7ABF21]",
+        isActive && "text-[#2148BF]",
         disabled && "pointer-events-none opacity-60",
        )
       } 

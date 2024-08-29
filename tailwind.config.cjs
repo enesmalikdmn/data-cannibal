@@ -61,13 +61,13 @@ module.exports = {
         input: "#E8ECED",
         ring: "hsl(222.2 84% 4.9%)",
         background: "#ffffff",
-        foreground: "#333b69",
+        foreground: "#2148BF",
         primary: {
-          DEFAULT: "#fa6262",
+          DEFAULT: "#7ABF21",
           foreground: "#ffffff",
         },
         secondary: {
-          DEFAULT: "#4c86e7",
+          DEFAULT: "#285AED",
           foreground: "#ffffff",
         },
         tertiary: {

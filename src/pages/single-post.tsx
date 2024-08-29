@@ -102,7 +102,7 @@ const SinglePost = useFramerTransition(
 						</div>
 					</div>
 					<article
-						className="post-content prose prose-lg mx-auto max-w-[50rem] dark:prose-invert prose-headings:text-foreground"
+						className="post-content prose prose-lg mx-auto max-w-[50rem] dark:prose-invert prose-headings:text-[#2148BF]"
 						dangerouslySetInnerHTML={{ __html: post.content.rendered }}
 					></article>
 

@@ -54,7 +54,7 @@ const SectionPricingTables = () => {
               >
                 {title && <h3 className="mb-2 text-md">{title}</h3>}
                 {currency || price || term ? (
-                  <div className="mb-4 text-foreground dark:text-white">
+                  <div className="mb-4 text-[#2148BF] dark:text-white">
                     {currency && (
                       <span className="mr-1 mt-3 inline-block align-top text-2xl">
                         {currency}

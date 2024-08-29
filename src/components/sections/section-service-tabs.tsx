@@ -85,7 +85,7 @@ const SectionServiceTabs = () => {
                 {serviceTab.content.cta && (
                   <a
                     href="#"
-                    className="inline-flex items-center text-sm font-bold text-secondary hover:text-primary"
+                    className="inline-flex items-center text-sm font-bold text-secondary hover:text-[#7ABF21]"
                   >
                     {serviceTab.content.cta}
                     <ChevronRightIcon width={20} height={20} className="ml-4" />

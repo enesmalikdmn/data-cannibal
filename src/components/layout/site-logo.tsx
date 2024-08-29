@@ -17,7 +17,7 @@ export default function SiteLogo({
 }: SiteLogoProps) {
   return (
     <>
-      {/* <img
+      <img
         src={logo}
         className={lightClasses}
         width={width}
@@ -30,13 +30,8 @@ export default function SiteLogo({
         width={width}
         height={height}
         alt={siteConfig.name}
-      /> */}
-      <div className={lightClasses}>
-        DataCannibal
-      </div>
-      <div className={darkClasses}>
-        DataCannibal
-      </div>
+      />
+      
     </>
   );
 }

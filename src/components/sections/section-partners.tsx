@@ -2,7 +2,7 @@ import SectionTitle from "./section-title";
 
 const SectionPartners = () => {
   return (
-    <section className="relative bg-white pb-56 pt-24 before:absolute before:inset-0 before:bg-gradient-to-t before:from-quaternary before:to-secondary before:opacity-70">
+    <section className="relative bg-white pb-56 pt-24 before:absolute before:inset-0 before:bg-gradient-to-t before:from-[#A724BF] before:to-[#BF2432] before:opacity-70">
       <img
         src="partners/map.png"
         alt="Partners"

@@ -64,7 +64,7 @@ const SectionFAQ = () => {
               </Accordion>
               <span className="mt-14 inline-block text-lg">
                 Any Question?{" "}
-                <a href="mailto:support@DataCannibal.com" className="text-primary">
+                <a href="mailto:support@DataCannibal.com" className="text-[#7ABF21]">
                   support@DataCannibal.com
                 </a>
               </span>
@@ -108,7 +108,7 @@ const SectionFAQ = () => {
                 </div>
               </div>
               <div className="relative">
-                <div className="relative mx-auto max-w-xs self-start rounded-xl bg-white bg-gradient-to-l from-primary/70 to-tertiary/70 p-8 shadow-lg">
+                <div className="relative mx-auto max-w-xs self-start rounded-xl bg-white bg-gradient-to-l from-[#24ABBF] to-[#24BFA0] p-8 shadow-lg">
                   <div className="absolute right-8 top-8 rounded-full bg-white p-3">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

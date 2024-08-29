@@ -34,8 +34,8 @@ const HeroTriangle = (props: SVGProps<SVGSVGElement>) => {
           y2="100%"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset={0} stopColor="#4C86E7" />
-          <stop offset={1} stopColor="#B939E5" />
+          <stop offset={0} stopColor="#285AED" />
+          <stop offset={1} stopColor="#BF2432" />
         </linearGradient>
         <pattern
           id={patternId}

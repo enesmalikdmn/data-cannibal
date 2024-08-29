@@ -80,7 +80,7 @@ const SectionIconBoxesLayout2 = () => {
           <div className="text-center lg:w-3/5">
             <h2 className="mb-12">
               Do you want to{" "}
-              <span className="text-primary">generate more traffic</span> to
+              <span className="text-[#7ABF21]">generate more traffic</span> to
               your website? We know the solution.
             </h2>
           </div>

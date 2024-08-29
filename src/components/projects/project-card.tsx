@@ -37,7 +37,7 @@ const ProjectCard = ({ project }: Props) => {
             </>
           )}
         </Link>
-        <h2 className="absolute bottom-0 mb-0 px-8 py-6 text-xl font-bold text-white hover:text-primary">
+        <h2 className="absolute bottom-0 mb-0 px-8 py-6 text-xl font-bold text-white hover:text-[#7ABF21]">
           <Link
             to={`/single-project`}
             dangerouslySetInnerHTML={{ __html: project?.title?.rendered }}
@@ -57,7 +57,7 @@ const ProjectCard = ({ project }: Props) => {
         )}
         {/* <a
           href={`/projects/${project.slug}`}
-          className="mt-6 inline-flex items-center text-sm font-bold text-secondary hover:text-primary"
+          className="mt-6 inline-flex items-center text-sm font-bold text-secondary hover:text-[#7ABF21]"
         >
           View Case Study
           <ChevronRightIcon width={20} height={20} className="ml-4" />

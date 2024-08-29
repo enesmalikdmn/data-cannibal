@@ -59,8 +59,8 @@ const ListItem = React.forwardRef<React.ElementRef<"a">, React.ComponentPropsWit
           to={href || ''}
           ref={ref}
           className={({ isActive }) => cn(
-            "block select-none space-y-1 px-3 py-1.5 leading-none no-underline outline-none transition-colors hover:text-primary focus:text-primary",
-            isActive && "text-primary",
+            "block select-none space-y-1 px-3 py-1.5 leading-none no-underline outline-none transition-colors hover:text-[#7ABF21] focus:text-[#7ABF21]",
+            isActive && "text-[#7ABF21]",
           )}
           {...props}
         >

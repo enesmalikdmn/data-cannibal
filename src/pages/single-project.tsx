@@ -45,7 +45,7 @@ const SingleProject = useFramerTransition(
                 </span>
               )}
               {post?.acf?.project_feature_1_text && (
-                <span className="text-[1.0625rem] font-bold text-foreground dark:text-slate-400">
+                <span className="text-[1.0625rem] font-bold text-[#2148BF] dark:text-slate-400">
                   {post?.acf?.project_feature_1_text}
                 </span>
               )}
@@ -61,7 +61,7 @@ const SingleProject = useFramerTransition(
                 </span>
               )}
               {post?.acf?.project_feature_2_text && (
-                <span className="text-[1.0625rem] font-bold text-foreground dark:text-slate-400">
+                <span className="text-[1.0625rem] font-bold text-[#2148BF] dark:text-slate-400">
                   {post?.acf?.project_feature_2_text}
                 </span>
               )}
@@ -77,7 +77,7 @@ const SingleProject = useFramerTransition(
                 </span>
               )}
               {post?.acf?.project_feature_3_text && (
-                <span className="text-[1.0625rem] font-bold text-foreground dark:text-slate-400">
+                <span className="text-[1.0625rem] font-bold text-[#2148BF] dark:text-slate-400">
                   {post?.acf?.project_feature_3_text}
                 </span>
               )}
@@ -89,7 +89,7 @@ const SingleProject = useFramerTransition(
       <section className="pb-24 pt-16">
         <div className="container">
           <article
-            className="prose prose-lg mx-auto max-w-[50rem] dark:prose-invert prose-headings:text-foreground"
+            className="prose prose-lg mx-auto max-w-[50rem] dark:prose-invert prose-headings:text-[#2148BF]"
             dangerouslySetInnerHTML={{ __html: post.content.rendered }}
           ></article>
         </div>

@@ -34,7 +34,7 @@
   h4,
   h5,
   h6 {
-    @apply mb-6 font-bold leading-normal -tracking-[0.01em] text-foreground dark:text-white;
+    @apply mb-6 font-bold leading-normal -tracking-[0.01em] text-[#2148BF] dark:text-white;
   }
 
   h1 {

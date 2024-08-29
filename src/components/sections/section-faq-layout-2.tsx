@@ -67,7 +67,7 @@ const SectionFAQLayout2 = () => {
         </div>
         <div className="mt-4 text-center text-lg">
           Any Question?{" "}
-          <a href="mailto:support@DataCannibal.com" className="text-primary">
+          <a href="mailto:support@DataCannibal.com" className="text-[#7ABF21]">
             support@DataCannibal.com
           </a>
         </div>

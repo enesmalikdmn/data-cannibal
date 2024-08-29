@@ -40,7 +40,7 @@ const TestimonialLayout2 = ({
               )}
               {comment && <p className="mb-5 text-md">{comment}</p>}
               {name && (
-                <span className="mb-0 block text-xs font-bold text-foreground dark:text-white">
+                <span className="mb-0 block text-xs font-bold text-[#2148BF] dark:text-white">
                   {name}
                 </span>
               )}

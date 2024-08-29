@@ -36,7 +36,7 @@ const FooterLayout2 = () => {
                   </a>
                   <a
                     href="mailto:hello@DataCannibal.com"
-                    className="hover:text-primary"
+                    className="hover:text-[#7ABF21]"
                   >
                     hello@DataCannibal.com
                   </a>
@@ -72,7 +72,7 @@ const FooterLayout2 = () => {
                             to={link.href}
                             target={link?.external ? "_blank" : undefined}
                             rel={link?.external ? "noreferrer" : undefined}
-                            className="block hover:text-primary"
+                            className="block hover:text-[#7ABF21]"
                           >
                             {link.title}
                           </Link>
@@ -97,7 +97,7 @@ const FooterLayout2 = () => {
         <div className="container text-center">
           <span className="text-xs">
             © {new Date().getFullYear()} DataCannibal React, Made by{" "}
-            <a href="https://deothemes.com" className="hover:text-primary">
+            <a href="https://deothemes.com" className="hover:text-[#7ABF21]">
               DeoThemes
             </a>
           </span>

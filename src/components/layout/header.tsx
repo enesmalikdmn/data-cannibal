@@ -33,8 +33,8 @@ const Header = () => {
             <SiteLogo
               width={123}
               height={39}
-              lightClasses="w-4/5 text-foreground dark:hidden lg:w-auto"
-              darkClasses="hidden text-white w-4/5 dark:block lg:w-auto"
+              lightClasses="w-4/5 text-[#2148BF] dark:hidden"
+              darkClasses="hidden text-white w-4/5 dark:block"
             />
           </Link>
 
@@ -46,7 +46,7 @@ const Header = () => {
             <div className="hidden lg:ml-auto lg:inline-block">
               <a
                 href="tel:63-995-3959"
-                className="inline-block rounded-md bg-gradient-to-l from-primary to-tertiary px-4 py-2.5 text-center font-bold text-white"
+                className="inline-block rounded-md bg-gradient-to-l from-[#24ABBF] to-[#24BFA0] px-4 py-2.5 text-center font-bold text-white"
               >
                 <span className="block text-xxs">Call us for Free</span>
                 <span className="text-md">63-995-3959</span>

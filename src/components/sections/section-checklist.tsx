@@ -16,7 +16,7 @@ const SectionChecklist = () => {
                     size={20}
                     className="mr-1 mt-0.5 shrink-0 fill-green"
                   />
-                  <span className="text-md text-foreground dark:text-slate-400">
+                  <span className="text-md text-[#2148BF] dark:text-slate-400">
                   Expertise: With years of experience in web scraping and data automation, our team brings unparalleled knowledge to the table.
                   </span>
                 </div>
@@ -25,7 +25,7 @@ const SectionChecklist = () => {
                     size={20}
                     className="mr-1 mt-0.5 shrink-0 fill-green"
                   />
-                  <span className="text-md text-foreground dark:text-slate-400">
+                  <span className="text-md text-[#2148BF] dark:text-slate-400">
                   Customization: We offer flexible solutions tailored to your business needs, ensuring that you get exactly what you require from your data.
                   </span>
                 </div>
@@ -36,7 +36,7 @@ const SectionChecklist = () => {
                     size={20}
                     className="mr-1 mt-0.5 shrink-0 fill-green"
                   />
-                  <span className="text-md text-foreground dark:text-slate-400">
+                  <span className="text-md text-[#2148BF] dark:text-slate-400">
                   Reliability: Our robust data scraping tools are built to handle large volumes of data with precision and accuracy.
                   </span>
                 </div>
@@ -45,7 +45,7 @@ const SectionChecklist = () => {
                     size={20}
                     className="mr-1 mt-0.5 shrink-0 fill-green"
                   />
-                  <span className="text-md text-foreground dark:text-slate-400">
+                  <span className="text-md text-[#2148BF] dark:text-slate-400">
                   Support: We are here to support you every step of the way, from initial setup to ongoing maintenance and troubleshooting.
                   </span>
                 </div>

@@ -50,13 +50,13 @@ export default function ContactForm() {
           </li>
           <li>
             <span>Phone: </span>
-            <a href="tel:+1-800-1554-456-123" className="hover:text-primary">
+            <a href="tel:+1-800-1554-456-123" className="hover:text-[#7ABF21]">
               + 1 (800) 155 4561
             </a>
           </li>
           <li>
             <span>Email: </span>
-            <a href="mailto:hi@DataCannibal.com" className="hover:text-primary">
+            <a href="mailto:hi@DataCannibal.com" className="hover:text-[#7ABF21]">
               hi@DataCannibal.com
             </a>
           </li>
